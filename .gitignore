@@ -10,6 +10,7 @@ __pycache__/
 .pytest_cache/
 .test-deps/
 .local-mongo/
+.verification/
 *.py[cod]
 .coverage
 htmlcov/

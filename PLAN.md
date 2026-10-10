@@ -35,3 +35,8 @@ comparisons, explain-plan checks, and real Uvicorn readiness check passed.
 Observed results and reproducible commands are in `VERIFICATION.md`.
 The implementation is ready for review in the GitHub repository. Submission
 of its URL to the hiring team is a separate step.
+
+The 11 October 2026 audit added seven requirement/boundary tests and expanded the
+README. The same 35-test suite passed under Python 3.11.16 and 3.14.2. A fresh
+clone's production dependency installation and all 12 operations were checked
+over HTTP at port 8000; evidence and unverified areas are in `VERIFICATION.md`.
