@@ -1,0 +1,10 @@
+.env
+.env.*
+.venv/
+__pycache__/
+.pytest_cache/
+.test-deps/
+.local-mongo/
+*.py[cod]
+.coverage
+htmlcov/
