@@ -39,5 +39,5 @@ See `PLAN.md`, `REVIEW.md`, `DECISIONS.md`, and `VERIFICATION.md` for the engine
 plan, starter fixes, design answers, and observed results. No endpoints are missing.
 Local downloaded runtimes, dependencies, caches, and database files are ignored;
 do not include them, secrets, `.env`, or a Dockerfile in the public submission.
-Repository: https://github.com/Aryansingh95203/Employee-attendance-analytics-api
+Repository: https://github.com/aryansingho07/Employee-attendance-analytics-api
 Submission of the repository URL to the hiring team is a separate step.

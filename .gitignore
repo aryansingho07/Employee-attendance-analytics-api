@@ -1,6 +1,11 @@
 .env
 .env.*
+*.env
+*.env.*
+.envrc
 .venv/
+venv/
+env/
 __pycache__/
 .pytest_cache/
 .test-deps/
